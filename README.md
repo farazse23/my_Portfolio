@@ -1,16 +1,12 @@
-# my_portfolio
+🌐 Portfolio Website – Faraz
+This is my personal portfolio website built entirely using Flutter and Dart. The goal of this site is to showcase my work as a cross-platform app and web developer, highlighting my projects, skills, and experience in a clean and responsive interface.
 
-A new Flutter project.
+🎯 Purpose
+This portfolio website is designed to:
 
-## Getting Started
+Present my projects with detailed descriptions and visuals
 
-This project is a starting point for a Flutter application.
+Highlight my technical skills in Flutter, Firebase, and Dart
 
-A few resources to get you started if this is your first Flutter project:
+Provide an easy way for recruiters and collaborators to get in touch
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
